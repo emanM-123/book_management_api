@@ -1,0 +1,10 @@
+{
+	"serverError": "serverError",
+	"success": "success",
+	"invalidId": "invalidId",
+	"createdSuccessfully": "createdSuccessfully",
+	"Updated successfully": "Updated successfully",
+	"Book Id is required": "Book Id is required",
+	"Deleted successfully": "Deleted successfully",
+	"Book not found":"Book not found"
+}

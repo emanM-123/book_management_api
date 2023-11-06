@@ -1,0 +1,27 @@
+{
+  "name": "book_management_api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "format": "prettier --write .",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "celebrate": "^15.0.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "i18n": "^0.15.1",
+    "mongoose": "^8.0.0",
+    "morgan": "^1.10.0",
+    "split2": "^4.2.0",
+    "url": "^0.11.3",
+    "winston": "^3.11.0"
+  }
+}
